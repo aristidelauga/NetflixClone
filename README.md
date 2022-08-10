@@ -1,0 +1,3 @@
+### Netflix-Clone
+
+A copy of the famous bingwatching platform I made using UIKit, SwiftUI, API Calls ...
