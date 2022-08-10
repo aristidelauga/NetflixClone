@@ -13,7 +13,7 @@ class CollectionViewTableViewCell: UITableViewCell {
   
   private let collectionView: UICollectionView = {
     let layout = UICollectionViewFlowLayout()
-    
+    layout.scrollDirection = .horizontal
     let collectionView = UICollectionView(frame: .zero, collectionViewLayout: layout)
     return collectionView
   }()
