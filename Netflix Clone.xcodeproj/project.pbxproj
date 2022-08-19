@@ -17,6 +17,7 @@
 		9277A8CD28A24DC2008B48DD /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9277A8CC28A24DC2008B48DD /* SearchViewController.swift */; };
 		9277A8CF28A24DE2008B48DD /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9277A8CE28A24DE2008B48DD /* DownloadsViewController.swift */; };
 		9277A8DD28A3D4CA008B48DD /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9277A8DC28A3D4CA008B48DD /* CollectionViewTableViewCell.swift */; };
+		929C05E028B0206000BE801E /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 929C05DF28B0206000BE801E /* APICaller.swift */; };
 		92FE625C28AD3FD800BC5F52 /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92FE625B28AD3FD800BC5F52 /* HeroHeaderUIView.swift */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		9277A8CC28A24DC2008B48DD /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		9277A8CE28A24DE2008B48DD /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		9277A8DC28A3D4CA008B48DD /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
+		929C05DF28B0206000BE801E /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		92FE625B28AD3FD800BC5F52 /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -126,6 +128,7 @@
 		9277A8DB28A3D47F008B48DD /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				929C05DF28B0206000BE801E /* APICaller.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				9277A8CD28A24DC2008B48DD /* SearchViewController.swift in Sources */,
 				9277A8B828A24AEC008B48DD /* MainTabBarViewController.swift in Sources */,
 				9277A8DD28A3D4CA008B48DD /* CollectionViewTableViewCell.swift in Sources */,
+				929C05E028B0206000BE801E /* APICaller.swift in Sources */,
 				92FE625C28AD3FD800BC5F52 /* HeroHeaderUIView.swift in Sources */,
 				9277A8CF28A24DE2008B48DD /* DownloadsViewController.swift in Sources */,
 				9277A8B428A24AEC008B48DD /* AppDelegate.swift in Sources */,
